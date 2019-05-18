@@ -7,7 +7,7 @@ A lightweight library, that provides an Error class to throws errors with cause,
 ## Using JS Error
 
 ```javascript
-npm install js-error
+npm i @seudev/js-error
 ```
 
 The `JSError` class is a subclass of `Error` class. Create instances of this class passing a message and a cause (optional). The message can be an string or an object.

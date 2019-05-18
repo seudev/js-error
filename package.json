@@ -1,6 +1,6 @@
 {
-    "name": "js-error",
-    "version": "0.0.1",
+    "name": "@seudev/js-error",
+    "version": "0.0.2",
     "description": "A lightweight library, that provides an Error class to throws errors with cause, making it easier to chaining of errors.",
     "main": "index.js",
     "scripts": {
